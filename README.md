@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+
 This project is a starting point for a Flutter application.
+![Capture](https://github.com/RamsOkta/chapter6-2-firestore/assets/122455918/f45aee2e-1f30-4062-a01b-0082c2ef1a22)
+
 
 A few resources to get you started if this is your first Flutter project:
 
