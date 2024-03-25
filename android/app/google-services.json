@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534164396150",
+    "project_id": "crud-resep-makanan-dan-minuman",
+    "storage_bucket": "crud-resep-makanan-dan-minuman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534164396150:android:51e6959a25489594162757",
+        "android_client_info": {
+          "package_name": "com.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGc9j94rsSYLKmNsK6aqpAsHtaRodSvKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
